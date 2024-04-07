@@ -1,0 +1,15 @@
+.first-div{
+    text-align: center;
+   &__add{
+
+    display: block !important;
+
+    &__input{
+        width: 50%;
+        height: 100px;
+        direction: rtl;
+        border-radius: 0px;
+        border: 1px solid black;
+    }
+   }
+}
